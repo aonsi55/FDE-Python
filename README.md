@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # FDE-Python
 Solving Heat equation PDE, using Finite Difference equation.
 
@@ -19,9 +20,9 @@ $$F= \frac{\alpha \Delta t}{(\Delta x)^2},$$
 where, $\alpha$ is the conductivity coefficient, $\Delta t$ is the time step for which we want to observe the flow of heat equation, and $\Delta x$ is the spatial step. 
 
 The solution plot is shown as follows,
-<center>
+
 ![FDE Solution to Heat Equation](https://github.com/aonsi55/FDE-Python/blob/main/plot.svg)
-</center>
+
 
 In the given python code, we have implemented the solution to the above problem. 
 
