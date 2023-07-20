@@ -16,6 +16,11 @@ such that,
 $$F= \frac{\alpha \Delta t}{(\Delta x)^2},$$
 where, $\alpha$ is the conductivity coefficient, $\Delta t$ is the time step for which we want to observe the flow of heat equation, and $\Delta x$ is the spatial step. 
 
+The solution plot is shown as follows,
+
+![FDE Solution to Heat Equation](image_url)
+
+
 In the given python code, we have implemented the solution to the above problem. 
 
 
