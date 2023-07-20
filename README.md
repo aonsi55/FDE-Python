@@ -12,7 +12,7 @@ $$\frac{d^2y}{dx^2} =  \lim_{h\to 0} \frac{ f(x+h) - 2 f(x) + f(x-h)}{h^2},$$
 
 which can be converted into an algebraic expression as follows,
 
-$$T^{n+1}_{i} = F(T^{n}_{i+1} + T^{n}_{i-1}) + (1 - 2 F)T^{n}_{i},$$
+$$T^{n+1}_i = F(T^{n}_{i+1} + T^{n}_{i-1}) + (1 - 2 F)T^{n}_i,$$
 
 such that, 
 $$F= \frac{\alpha \Delta t}{(\Delta x)^2},$$
