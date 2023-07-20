@@ -18,7 +18,7 @@ where, $\alpha$ is the conductivity coefficient, $\Delta t$ is the time step for
 
 The solution plot is shown as follows,
 
-![FDE Solution to Heat Equation](image_url)
+![FDE Solution to Heat Equation](https://github.com/aonsi55/FDE-Python/blob/main/plot.svg)
 
 
 In the given python code, we have implemented the solution to the above problem. 
